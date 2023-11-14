@@ -1,0 +1,16 @@
+1.O que são objetos em JavaScript?
+R: objetos são um tipo de dados estruturado em JS, podendo conter vários diferentes tipos de dados armazenados, por exemplo:
+
+const myObj = {
+  name: "Gabriel",
+  middleName: "Oliveira"
+  age: 19,
+  height: 1.75,
+}
+
+O que são atributos em JavaScript?
+
+O que são métodos de classe em JavaScript?
+O que é uma classe em JavaScript?
+O que é o construtor de uma classe em JavaScript?
+Explique o conceito de herança de classes em JavaScript. De um exemplo de uma herança em JavaScript.
